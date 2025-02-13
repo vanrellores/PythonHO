@@ -1,3 +1,4 @@
+#If Else, Elif
 grade = int(input("Enter grade: "))
 
 def check_grade():

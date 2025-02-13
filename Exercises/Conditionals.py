@@ -1,3 +1,4 @@
+#If Else
 age = input("Enter voter's age: ")
 
 if int(age) >= 18:
